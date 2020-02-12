@@ -1,0 +1,33 @@
+﻿{
+    "Time":  "03.02.2020 14:35:55",
+    "Type":  "direct-event",
+    "Category":  "squid",
+    "Object_type":  "Web Site",
+    "Who":  "hansolo@jedi.local",
+    "Where":  "192.168.5.2",
+    "Action":  "GET",
+    "Contents":  "http://wiki.ipfire.org/",
+    "Forwarder":  "event-direct"
+}
+{
+    "Time":  "03.02.2020 14:36:01",
+    "Type":  "direct-event",
+    "Category":  "squid",
+    "Object_type":  "Web Site",
+    "Who":  "skywalker@jedi.local",
+    "Where":  "192.168.5.142",
+    "Action":  "POST",
+    "Contents":  "http://wiki.ipfire.org/",
+    "Forwarder":  "event-direct"
+}
+{
+    "Time":  "03.02.2020 14:36:02",
+    "Type":  "direct-event",
+    "Category":  "squid",
+    "Object_type":  "Web Site",
+    "Who":  "darthvader@jedi.local",
+    "Where":  "192.168.5.65",
+    "Action":  "CONNECT",
+    "Contents":  "http://wiki.ipfire.org/",
+    "Forwarder":  "event-direct"
+}
